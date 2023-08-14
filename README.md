@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link to article: (https://blog.openreplay.com/allow-paystack-payments-in-your-react-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
